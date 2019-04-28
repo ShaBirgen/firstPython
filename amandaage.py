@@ -14,7 +14,7 @@ print(name + " is  ")
 if age >= 18 and age < 25:
     print("a student ")
 elif age >= 14 and age < 18:
-    print("a high school child")
+    print("a high school student")
 elif age < 14:
     print("primary school kid")
 else:
